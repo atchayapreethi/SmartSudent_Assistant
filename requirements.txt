@@ -1,0 +1,7 @@
+flask
+pypdf
+langchain
+langchain-ollama
+langchain-text-splitters
+langgraph
+mcp<2
